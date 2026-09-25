@@ -21,10 +21,10 @@
       "htmlHead": "<meta name=\"google-site-verification\" content=\"qCj48a_i99rPHh8qaooIexFF2YD_KtdzGumrgphczBY\" />\n<link rel=\"canonical\" href=\"https://dieselwin-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://dieselwin-casino.co.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://dieselwin-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Dieselwin Casino | First Deposit €1000 + 100 Free Spins\">\n<meta property=\"og:description\" content=\"Dieselwin Casino official site with 8000+ games, live casino, sports betting and a 100% welcome bonus up to €1000 + 100 free spins.\">\n<meta property=\"og:url\" content=\"https://dieselwin-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"Dieselwin Casino\">\n",
       "gptPrompt": "",
       "heroTitle": "Dieselwin Casino",
-      "heroSubtitle": "Welcome Bonus 100% up to €1000 + 100 FS",
+      "heroSubtitle": "Welcome Bonus",
       "heroBadge": "New Casino for UK Players",
       "ctaText": "Play Now",
-      "tagline": "++++",
+      "tagline": "100% up to €1000 + 100 FS",
       "heroImage": "/uploads/961eda3f22104dd208b1f80a518ea3d8.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -98,7 +98,7 @@
       "popup_text": "Welcome Bonus 100% up to €1000 + 100 FS",
       "popup_logo": "/uploads/ffc1cc20102875bd5ea7f7d06e51f56f.webp",
       "hero_title": "Dieselwin Casino",
-      "hero_subtitle": "Welcome Bonus 100% up to €1000 + 100 FS",
+      "hero_subtitle": "Welcome Bonus",
       "hero_image": "/uploads/961eda3f22104dd208b1f80a518ea3d8.webp",
       "seo_title": "Dieselwin Casino | First Deposit €1000 + 100 Free Spins",
       "seo_description": "Dieselwin Casino official site with 8000+ games, live casino, sports betting and a 100% welcome bonus up to €1000 + 100 free spins.",
@@ -169,10 +169,10 @@
   "seo_description": "Dieselwin Casino official site with 8000+ games, live casino, sports betting and a 100% welcome bonus up to €1000 + 100 free spins.",
   "redirect_site": null,
   "hero_title": "Dieselwin Casino",
-  "hero_subtitle": "Welcome Bonus 100% up to €1000 + 100 FS",
+  "hero_subtitle": "Welcome Bonus",
   "hero_badge": "New Casino for UK Players",
   "cta_text": "Play Now",
-  "tagline": "++++",
+  "tagline": "100% up to €1000 + 100 FS",
   "features_list": null,
   "footer_text": "© 2026. Dieselwin Casino. All rights reserved",
   "popup_text": "Welcome Bonus 100% up to €1000 + 100 FS",
@@ -379,8 +379,8 @@
       "question": "Can Dieselwin be used on a mobile phone?"
     }
   ],
-  "_generated_at": "2026-09-25T09:46:29.852Z",
+  "_generated_at": "2026-09-25T09:48:58.205Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-25T09:46:30.415Z",
-  "_deploy_trigger": "mmfs39"
+  "_last_deploy": "2026-09-25T09:48:58.739Z",
+  "_deploy_trigger": "rtj96p"
 }
