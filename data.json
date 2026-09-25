@@ -24,7 +24,7 @@
       "heroSubtitle": "Welcome Bonus 100% up to €1000 + 100 FS",
       "heroBadge": "New Casino for UK Players",
       "ctaText": "Play Now",
-      "tagline": "",
+      "tagline": "++++",
       "heroImage": "/uploads/961eda3f22104dd208b1f80a518ea3d8.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -172,7 +172,7 @@
   "hero_subtitle": "Welcome Bonus 100% up to €1000 + 100 FS",
   "hero_badge": "New Casino for UK Players",
   "cta_text": "Play Now",
-  "tagline": "",
+  "tagline": "++++",
   "features_list": null,
   "footer_text": "© 2026. Dieselwin Casino. All rights reserved",
   "popup_text": "Welcome Bonus 100% up to €1000 + 100 FS",
@@ -379,8 +379,8 @@
       "question": "Can Dieselwin be used on a mobile phone?"
     }
   ],
-  "_generated_at": "2026-09-25T09:42:36.073Z",
+  "_generated_at": "2026-09-25T09:46:29.852Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-25T09:42:36.605Z",
-  "_deploy_trigger": "6qnnb2"
+  "_last_deploy": "2026-09-25T09:46:30.415Z",
+  "_deploy_trigger": "mmfs39"
 }
